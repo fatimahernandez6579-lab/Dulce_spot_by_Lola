@@ -1,0 +1,60 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff8fa;
+    margin: 0;
+    color: #49343b;
+}
+
+.navbar {
+    background-color: #e9a9bd;
+}
+
+.navbar-brand,
+.nav-link {
+    color: white !important;
+    font-weight: bold;
+}
+
+.portada {
+    background-color: #f8dce5;
+    padding: 70px 20px;
+    text-align: center;
+}
+
+.portada h1 {
+    color: #9b4967;
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.portada p {
+    font-size: 18px;
+}
+
+.btn-rosa {
+    background-color: #c96f91;
+    color: white;
+    border: none;
+}
+
+.btn-rosa:hover {
+    background-color: #a94e73;
+    color: white;
+}
+
+.tarjeta {
+    background: white;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 3px 10px #00000015;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #e9a9bd;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
