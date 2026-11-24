@@ -13,7 +13,6 @@ El sitio cuenta con una interfaz sencilla, moderna y atractiva, utilizando color
 
 Para ejecutar el proyecto es necesario contar con los siguientes programas:
 
-- Visual Studio Code.
 - XAMPP.
 - Google Chrome o cualquier navegador web.
 
@@ -26,14 +25,12 @@ Para ejecutar el proyecto es necesario contar con los siguientes programas:
 
 3. Abrir XAMPP Control Panel.
 4. Iniciar el servicio Apache presionando el botón Start.
-5. Abrir Visual Studio Code.
-6. Seleccionar y abrir la carpeta `Dulce_spot_by_Lola`.
-7. Abrir Google Chrome o cualquier navegador web.
-8. Escribir la siguiente dirección:
+5. Abrir Google Chrome o cualquier navegador web.
+6. Escribir la siguiente dirección:
 
    `http://localhost/Dulce_spot_by_Lola/index.php`
 
-9. Navegar por las diferentes secciones del sitio web.
+7. Navegar por las diferentes secciones del sitio web.
 
 ### Funcionalidades disponibles:
 
